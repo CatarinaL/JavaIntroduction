@@ -1,12 +1,11 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+ * This class gathers insurance applicants data 
+ * and calculates the apropriate quote amount that applies to each case. 
+ * It also summarizes some statistics about the collected data, 
+ * such as total applicants, applicants under 25 and average of premiums quoted.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: ABC Insurance
+PURPOSE OF PROJECT: Insurance application interface
+VERSION or DATE: @v1 21/10/2017
+AUTHORS: Catarina Lourenço C17709355
